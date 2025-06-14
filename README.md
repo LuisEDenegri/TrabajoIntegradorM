@@ -46,5 +46,5 @@ El objetivo principal fue implementar operaciones entre conjuntos formados por l
   - B.Operaciones con años de nacimiento
 - Archivo PDF
   - Trabajo Integrador 2 Matematica y Programacion
-- Link YT
-  - enlace
+- Video YT
+  - Link
