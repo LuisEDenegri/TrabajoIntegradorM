@@ -41,6 +41,10 @@ El objetivo principal fue implementar operaciones entre conjuntos formados por l
 
 ## 📁 Estructura del repositorio
 - Codigos
+  - Parte1 Desallorro Matematico
+  - A.Operaciones con DNIs
+  - B.Operaciones con años de nacimiento
 - Archivo PDF
+  - Trabajo Integrador 2 Matematica y Programacion
 - Link YT
-
+  - enlace
